@@ -5,3 +5,12 @@ playwright-report/
 blob-report/
 .DS_Store
 *.log
+# Java / Maven build output
+target/
+*.class
+
+# IDE and OS files
+.idea/
+.vscode/
+*.iml
+.DS_Store
