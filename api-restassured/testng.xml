@@ -1,0 +1,6 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Booking API">
+  <test name="CRUD">
+    <classes><class name="api.BookingCrudTest"/></classes>
+  </test>
+</suite>
